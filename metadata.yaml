@@ -1,0 +1,27 @@
+_repo: The-Ground-Plan-of-the-English-Parish-Church_27102
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Thompson, A. Hamilton (Alexander Hamilton)
+    alias: Thompson, Alexander Hamilton
+    birthdate: 1873
+    deathdate: 1952
+    gutenberg_agent_id: '32457'
+    url: http://www.gutenberg.org/2009/agents/32457
+description: ''
+gutenberg_issued: '2008-10-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27102'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NA'
+- !lcsh 'Church architecture -- England'
+title: The Ground Plan of the English Parish Church
+url: http://www.gutenberg.org/ebooks/27102
